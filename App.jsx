@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./components/style/App.scss";
+import "./components/Style/App.scss";
 import dummyData from "./dummy-data";
 import Authenticate from "./components/Authentication/Authenticate";
 import PostPage from "./components/PostContainer/PostPage";
